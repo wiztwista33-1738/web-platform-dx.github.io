@@ -1,0 +1,22 @@
+{
+  "name": "web-platform-dx-site",
+  "description": "The W3C WebDX CG website",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-platform-dx/web-platform-dx.github.io.git"
+  },
+  "engines": {
+    "node": ">=18.19.0"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "markdown-it": "^14.1.1",
+    "markdown-it-anchor": "^9.1.0"
+  }
+}
