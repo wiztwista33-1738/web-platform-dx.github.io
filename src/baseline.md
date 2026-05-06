@@ -4,6 +4,8 @@ title: "Baseline"
 permalink: "/baseline/"
 ---
 
+<img src="/assets/img/baseline-wordmark.svg" alt="Baseline wordmark">
+
 Baseline gives you clear information about which web platform features work across our core browser set today. When reading an article, or choosing a library for your project, if the features used are all part of Baseline, you can trust the level of browser compatibility. By aligning with Baseline, there should be fewer surprises when testing your site.
 
 ## How features become part of Baseline
